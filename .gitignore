@@ -1,0 +1,6 @@
+# Ignorer tous les répertoires __pycache__
+__pycache__/
+*.py[cod]
+
+# Ignorer l'envirennement virtuel
+.venv/
