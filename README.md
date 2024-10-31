@@ -11,7 +11,7 @@ wsl install -d Ubuntu-22.04
 
 #### Mise à jour du système
 ```bash
-sudo apt update && sudo apt upgrade -y
+sudo apt-get update && sudo apt-get upgrade -y
 ```
 
 #### Installation de Python et des outils nécessaires
